@@ -20,7 +20,7 @@ STATIC_DIR = BASE_DIR / 'assets'
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-roj-%k9e#ioae_ztbfj=3w==d_hkgoz=a15qdo^97qep-*n5ai'
+SECRET_KEY = 'django-insecddddsure-roj-%k9e#ioae_ztbfj=3w==d_hkgoz=a15qdo^97qep-*n5ai'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
